@@ -13,3 +13,6 @@ Contributors / Licensing
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
+External Resource
+=====
+https://jenkov.com/tutorials/html5-canvas/stroke-fill.html
